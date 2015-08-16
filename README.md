@@ -1,2 +1,2 @@
-# aur4me
-My aur PKGBUILDs
+# AUR4ME
+My AUR PKGBUILDs
