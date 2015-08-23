@@ -46,3 +46,6 @@
 [submodule "hound"]
 	path = hound
 	url = ssh+git://aur@aur.archlinux.org/hound.git
+[submodule "glide-bin"]
+	path = glide-bin
+	url = ssh+git://aur@aur.archlinux.org/glide-bin.git
