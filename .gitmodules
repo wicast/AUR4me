@@ -49,3 +49,6 @@
 [submodule "glide-bin"]
 	path = glide-bin
 	url = ssh+git://aur@aur.archlinux.org/glide-bin.git
+[submodule "gogs"]
+	path = gogs
+	url = ssh+git://aur@aur.archlinux.org/gogs.git
