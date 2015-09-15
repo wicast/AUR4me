@@ -1,54 +1,54 @@
 [submodule "xcursor-menda-git"]
 	path = xcursor-menda-git
-	url = ssh+git://aur@aur.archlinux.org/xcursor-menda-git.git/
+	url = ssh://aur@aur.archlinux.org/xcursor-menda-git.git/
 [submodule "picojson-git"]
 	path = picojson-git
-	url = ssh+git://aur@aur.archlinux.org/picojson-git.git/
+	url = ssh://aur@aur.archlinux.org/picojson-git.git/
 [submodule "wqy-microhei-kr-patched"]
 	path = wqy-microhei-kr-patched
-	url = ssh+git://aur@aur.archlinux.org/wqy-microhei-kr-patched.git/
+	url = ssh://aur@aur.archlinux.org/wqy-microhei-kr-patched.git/
 [submodule "hugo"]
 	path = hugo
-	url = ssh+git://aur@aur.archlinux.org/hugo.git/
+	url = ssh://aur@aur.archlinux.org/hugo.git/
 [submodule "menda-icon-themes-git"]
 	path = menda-icon-themes-git
-	url = ssh+git://aur@aur.archlinux.org/menda-icon-themes-git.git/
+	url = ssh://aur@aur.archlinux.org/menda-icon-themes-git.git/
 [submodule "menda-themes"]
 	path = menda-themes
-	url = ssh+git://aur@aur.archlinux.org/menda-themes.git/
+	url = ssh://aur@aur.archlinux.org/menda-themes.git/
 [submodule "go-gpm-local"]
 	path = go-gpm-local
-	url = ssh+git://aur@aur.archlinux.org/go-gpm-local.git/
+	url = ssh://aur@aur.archlinux.org/go-gpm-local.git/
 [submodule "gvp"]
 	path = gvp
-	url = ssh+git://aur@aur.archlinux.org/gvp.git/
+	url = ssh://aur@aur.archlinux.org/gvp.git/
 [submodule "go-gpm"]
 	path = go-gpm
-	url = ssh+git://aur@aur.archlinux.org/go-gpm.git/
+	url = ssh://aur@aur.archlinux.org/go-gpm.git/
 [submodule "go-gpm-all"]
 	path = go-gpm-all
-	url = ssh+git://aur@aur.archlinux.org/go-gpm-all.git/
+	url = ssh://aur@aur.archlinux.org/go-gpm-all.git/
 [submodule "go-gpm-bootstrap"]
 	path = go-gpm-bootstrap
-	url = ssh+git://aur@aur.archlinux.org/go-gpm-bootstrap.git/
+	url = ssh://aur@aur.archlinux.org/go-gpm-bootstrap.git/
 [submodule "danmaku2ass-native"]
 	path = danmaku2ass-native
-	url = ssh+git://aur@aur.archlinux.org/danmaku2ass-native.git/
+	url = ssh://aur@aur.archlinux.org/danmaku2ass-native.git/
 [submodule "go-cross-major-platforms"]
 	path = go-cross-major-platforms
-	url = ssh+git://aur@aur.archlinux.org/go-cross-major-platforms.git
+	url = ssh://aur@aur.archlinux.org/go-cross-major-platforms.git
 [submodule "go-cross-all-platforms"]
 	path = go-cross-all-platforms
-	url = ssh+git://aur@aur.archlinux.org/go-cross-all-platforms.git
+	url = ssh://aur@aur.archlinux.org/go-cross-all-platforms.git
 [submodule "glide-git"]
 	path = glide-git
-	url = ssh+git://aur@aur.archlinux.org/glide-git.git
+	url = ssh://aur@aur.archlinux.org/glide-git.git
 [submodule "hound"]
 	path = hound
-	url = ssh+git://aur@aur.archlinux.org/hound.git
+	url = ssh://aur@aur.archlinux.org/hound.git
 [submodule "glide-bin"]
 	path = glide-bin
-	url = ssh+git://aur@aur.archlinux.org/glide-bin.git
+	url = ssh://aur@aur.archlinux.org/glide-bin.git
 [submodule "gogs"]
 	path = gogs
-	url = ssh+git://aur@aur.archlinux.org/gogs.git
+	url = ssh://aur@aur.archlinux.org/gogs.git
