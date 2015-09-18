@@ -34,12 +34,6 @@
 [submodule "danmaku2ass-native"]
 	path = danmaku2ass-native
 	url = ssh://aur@aur.archlinux.org/danmaku2ass-native.git/
-[submodule "go-cross-major-platforms"]
-	path = go-cross-major-platforms
-	url = ssh://aur@aur.archlinux.org/go-cross-major-platforms.git
-[submodule "go-cross-all-platforms"]
-	path = go-cross-all-platforms
-	url = ssh://aur@aur.archlinux.org/go-cross-all-platforms.git
 [submodule "glide-git"]
 	path = glide-git
 	url = ssh://aur@aur.archlinux.org/glide-git.git
