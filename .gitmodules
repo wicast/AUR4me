@@ -49,3 +49,6 @@
 [submodule "go-tools"]
 	path = go-tools
 	url = ssh+git://aur@aur.archlinux.org/go-tools.git
+[submodule "clessc-git"]
+	path = clessc-git
+	url = ssh://aur@aur.archlinux.org/clessc-git
