@@ -52,3 +52,6 @@
 [submodule "clessc-git"]
 	path = clessc-git
 	url = ssh://aur@aur.archlinux.org/clessc-git
+[submodule "menda-themes-git"]
+	path = menda-themes-git
+	url = ssh+git://aur@aur.archlinux.org/menda-themes-git.git
