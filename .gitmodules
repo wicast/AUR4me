@@ -55,3 +55,6 @@
 [submodule "menda-themes-git"]
 	path = menda-themes-git
 	url = ssh+git://aur@aur.archlinux.org/menda-themes-git.git
+[submodule "flamegraph-git"]
+	path = flamegraph-git
+	url = ssh+git://aur@aur.archlinux.org/flamegraph-git.git
