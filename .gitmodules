@@ -16,21 +16,6 @@
 [submodule "menda-themes"]
 	path = menda-themes
 	url = ssh://aur@aur.archlinux.org/menda-themes.git/
-[submodule "go-gpm-local"]
-	path = go-gpm-local
-	url = ssh://aur@aur.archlinux.org/go-gpm-local.git/
-[submodule "gvp"]
-	path = gvp
-	url = ssh://aur@aur.archlinux.org/gvp.git/
-[submodule "go-gpm"]
-	path = go-gpm
-	url = ssh://aur@aur.archlinux.org/go-gpm.git/
-[submodule "go-gpm-all"]
-	path = go-gpm-all
-	url = ssh://aur@aur.archlinux.org/go-gpm-all.git/
-[submodule "go-gpm-bootstrap"]
-	path = go-gpm-bootstrap
-	url = ssh://aur@aur.archlinux.org/go-gpm-bootstrap.git/
 [submodule "danmaku2ass-native"]
 	path = danmaku2ass-native
 	url = ssh://aur@aur.archlinux.org/danmaku2ass-native.git/
