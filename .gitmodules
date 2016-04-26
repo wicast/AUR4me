@@ -43,3 +43,6 @@
 [submodule "flamegraph-git"]
 	path = flamegraph-git
 	url = ssh+git://aur@aur.archlinux.org/flamegraph-git.git
+[submodule "python-lda"]
+	path = python-lda
+	url = ssh+git://aur@aur.archlinux.org/python-lda.git
