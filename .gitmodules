@@ -46,3 +46,6 @@
 [submodule "python-lda"]
 	path = python-lda
 	url = ssh+git://aur@aur.archlinux.org/python-lda.git
+[submodule "python2-doxytag2zealdb"]
+	path = python2-doxytag2zealdb
+	url = ssh+git://aur@aur.archlinux.org/python2-doxytag2zealdb.git
